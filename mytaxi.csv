@@ -1,3 +1,9 @@
+This is the most amazing file you've ever seen!
+If you have ever been in a taxi, you'll love the data.
+
+Hello.
+
+
 ,VendorID,tpep_pickup_datetime,tpep_dropoff_datetime,passenger_count,trip_distance,pickup_longitude,pickup_latitude,RateCodeID,store_and_fwd_flag,dropoff_longitude,dropoff_latitude,payment_type,fare_amount,extra,mta_tax,tip_amount,tolls_amount,improvement_surcharge,total_amount
 0,2,2015-06-02 11:19:29,2015-06-02 11:47:52,1,1.63,-73.95442962646483,40.76414108276367,1,N,-73.9747543334961,40.754093170166016,2,17.0,0.0,0.5,0.0,0.0,0.3,17.8
 1,2,2015-06-02 11:19:30,2015-06-02 11:27:56,1,0.46,-73.97144317626953,40.75894165039063,1,N,-73.97853851318358,40.76190948486328,1,6.5,0.0,0.5,1.0,0.0,0.3,8.3
